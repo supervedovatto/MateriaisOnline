@@ -4,7 +4,9 @@ As listas devem ser entregues no e-mail: thiago.vedovatto@ifg.edu.br
 
 ## Trabalho 1
 
-    - Seção 2.2: 1, 3, 6, 8, 9, 10, 12, 17, 20, 24, 32.
+    - LG3L
+    - 4F22
+    - BG1Z
 
 ## Trabalho 2
 ## Trabalho 3
@@ -15,3 +17,5 @@ As listas devem ser entregues no e-mail: thiago.vedovatto@ifg.edu.br
 ## Trabalho 8
 ## Trabalho 9
 ## Trabalho 10
+## Trabalho 11
+## Trabalho 12
