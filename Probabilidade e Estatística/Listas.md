@@ -7,6 +7,9 @@ As listas devem ser entregues no e-mail: thiago.vedovatto@ifg.edu.br
     - LG3L
     - 4F22
     - BG1Z
+    - HZ9W
+    - BGC1
+    - NGT5
 
 ## Trabalho 2
 ## Trabalho 3
