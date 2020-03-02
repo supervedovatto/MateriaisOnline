@@ -23,6 +23,9 @@
     - HZ9W
     - BGC1
     - NGT5
+    - BN6G
+    - KZ4C
+    - BG5R
 
 ## Trabalho 2
 ## Trabalho 3
