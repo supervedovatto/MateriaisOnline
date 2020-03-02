@@ -20,6 +20,9 @@
     - HZ9W
     - BGC1
     - NGT5
+    - HZ9W
+    - BGC1
+    - NGT5
 
 ## Trabalho 2
 ## Trabalho 3
