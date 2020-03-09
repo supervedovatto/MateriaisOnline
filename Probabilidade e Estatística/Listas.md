@@ -26,6 +26,8 @@
     - BN6G
     - KZ4C
     - BG5R
+    - BF5Z
+    - NT53
 
 ## Trabalho 2
 ## Trabalho 3
