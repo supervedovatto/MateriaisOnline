@@ -20,9 +20,6 @@
     - HZ9W
     - BGC1
     - NGT5
-    - HZ9W
-    - BGC1
-    - NGT5
     - BN6G
     - KZ4C
     - BG5R
@@ -30,6 +27,12 @@
     - NT53
 
 ## Trabalho 2
+
+    - M36Q
+    - Z3L5
+    - K3X8
+    - N7R2
+
 ## Trabalho 3
 ## Trabalho 4
 ## Trabalho 5
